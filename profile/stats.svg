@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Evan Kaufman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Contributions: 1732, Total Commits  : 4667, Total PRs: 230, Total PRs Merged: 195, Merged PRs Percentage: 84.78, Total PRs Reviewed: 0, Total Issues: 65, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 38, PRs Reviewed: 3, Issues Commented: 174, Contributed to (last year): 3, Contributed to (all time): 58</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Contributions: 1733, Total Commits  : 4667, Total PRs: 230, Total PRs Merged: 195, Merged PRs Percentage: 84.78, Total PRs Reviewed: 0, Total Issues: 65, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 38, PRs Reviewed: 3, Issues Commented: 174, Contributed to (last year): 3, Contributed to (all time): 58</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
