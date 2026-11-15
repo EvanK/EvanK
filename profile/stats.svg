@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Evan Kaufman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Contributions: 1743, Total Commits  : 7763, Total PRs: 230, Total PRs Merged: 195, Merged PRs Percentage: 84.78, Total PRs Reviewed: 0, Total Issues: 65, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 38, PRs Reviewed: 3, Issues Commented: 174, Contributed to (last year): 3, Contributed to (all time): 58</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Contributions: 1748, Total Commits  : 7767, Total PRs: 231, Total PRs Merged: 196, Merged PRs Percentage: 84.85, Total PRs Reviewed: 0, Total Issues: 65, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 38, PRs Reviewed: 3, Issues Commented: 174, Contributed to (last year): 3, Contributed to (all time): 58</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 69.34200185204531;
+        stroke-dashoffset: 69.30579896569557;
       }
     }
   
@@ -198,7 +198,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >230</text>
+      >231</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -209,7 +209,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs_merged"
-      >195</text>
+      >196</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -220,7 +220,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >84.78 %</text>
+      >84.85 %</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
