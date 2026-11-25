@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Evan Kaufman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Contributions: 1746, Total Commits  : 7786, Total PRs: 232, Total PRs Merged: 196, Merged PRs Percentage: 84.48, Total PRs Reviewed: 0, Total Issues: 65, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 38, PRs Reviewed: 3, Issues Commented: 174, Contributed to (last year): 4, Contributed to (all time): 59</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Contributions: 1746, Total Commits  : 7787, Total PRs: 232, Total PRs Merged: 196, Merged PRs Percentage: 84.48, Total PRs Reviewed: 0, Total Issues: 65, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 38, PRs Reviewed: 3, Issues Commented: 174, Contributed to (last year): 4, Contributed to (all time): 59</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 69.37880247783554;
+        stroke-dashoffset: 69.37867097230495;
       }
     }
   
